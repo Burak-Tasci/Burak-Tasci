@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burak-tasci&label=Profile%20views&color=0e75b6&style=flat" alt="burak-tasci" /> </p>
 
-- 🌱 I’m currently learning **flask for deploying machine learning models to web**
-
-- 💬 You can ask me about **any part of computer vision**
+- 🌱 I’m currently learning **Android app development with Kotlin**
 
 - 📫 How to reach me **buraaktascii@outlook.com**
 
