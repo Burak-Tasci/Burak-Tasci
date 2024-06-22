@@ -5,6 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflection in Kotlin](https://buraaktasci.medium.com/reflection-in-kotlin-e662639a3f35?source=rss-cd261971382------2)
+- [Sensitive Data Management With Android Jetpack Security](https://buraaktasci.medium.com/sensitive-data-management-with-android-jetpack-security-f5c7ab1b734?source=rss-cd261971382------2)
+- [MVP Architecture in Android](https://buraaktasci.medium.com/mvp-architecture-in-android-fd9531e7e7aa?source=rss-cd261971382------2)
+- [Event Bus in Android](https://buraaktasci.medium.com/event-bus-in-android-5d9c5d161bdf?source=rss-cd261971382------2)
+- [Context in Android](https://buraaktasci.medium.com/context-in-android-1cf7f689b42f?source=rss-cd261971382------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
