@@ -5,11 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Singleton is an Anti-Pattern?](https://buraaktasci.medium.com/why-singleton-is-an-anti-pattern-f828c186bd3e?source=rss-cd261971382------2)
 - [Composition vs Inheritance in Kotlin](https://buraaktasci.medium.com/composition-vs-inheritance-in-kotlin-3e016c568c20?source=rss-cd261971382------2)
 - [One Project, Multiple Apps: Using Product Flavors for White-Labeling](https://buraaktasci.medium.com/one-project-multiple-apps-using-product-flavors-for-white-labeling-b2c58aa428b6?source=rss-cd261971382------2)
 - [Reflection in Kotlin](https://buraaktasci.medium.com/reflection-in-kotlin-e662639a3f35?source=rss-cd261971382------2)
 - [Sensitive Data Management With Android Jetpack Security](https://buraaktasci.medium.com/sensitive-data-management-with-android-jetpack-security-f5c7ab1b734?source=rss-cd261971382------2)
-- [MVP Architecture in Android](https://buraaktasci.medium.com/mvp-architecture-in-android-fd9531e7e7aa?source=rss-cd261971382------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
