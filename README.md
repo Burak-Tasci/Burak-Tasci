@@ -5,11 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Stop Supporting ldpi Screen Densities in Android Apps](https://buraaktasci.medium.com/why-you-should-stop-supporting-ldpi-screen-densities-in-android-apps-88ac6743ac8f?source=rss-cd261971382------2)
 - [Clean Permission Management in Android](https://buraaktasci.medium.com/clean-permission-management-in-android-ddbb92590e05?source=rss-cd261971382------2)
 - [Why Singleton is an Anti-Pattern?](https://buraaktasci.medium.com/why-singleton-is-an-anti-pattern-f828c186bd3e?source=rss-cd261971382------2)
 - [Composition vs Inheritance in Kotlin](https://buraaktasci.medium.com/composition-vs-inheritance-in-kotlin-3e016c568c20?source=rss-cd261971382------2)
 - [One Project, Multiple Apps: Using Product Flavors for White-Labeling](https://buraaktasci.medium.com/one-project-multiple-apps-using-product-flavors-for-white-labeling-b2c58aa428b6?source=rss-cd261971382------2)
-- [Reflection in Kotlin](https://buraaktasci.medium.com/reflection-in-kotlin-e662639a3f35?source=rss-cd261971382------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
