@@ -5,11 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Common Mistakes with Data Classes in Kotlin](https://buraaktasci.medium.com/4-common-mistakes-with-data-classes-in-kotlin-30ff2dde713c?source=rss-cd261971382------2)
 - [Room Database Migrations in Android](https://buraaktasci.medium.com/room-database-migrations-in-android-80ef7282215f?source=rss-cd261971382------2)
 - [Making Any Class Lifecycle-Aware in Android: A Practical Guide](https://buraaktasci.medium.com/making-any-class-lifecycle-aware-in-android-a-practical-guide-db9d1ce68a93?source=rss-cd261971382------2)
 - [Functional Programming in Kotlin](https://buraaktasci.medium.com/functional-programming-in-kotlin-428bdaeef3c5?source=rss-cd261971382------2)
 - [Factory Pattern Example With Date Formatters in Android](https://buraaktasci.medium.com/factory-pattern-example-with-date-formatters-in-android-2e6526467017?source=rss-cd261971382------2)
-- [How to Get the Install Source of an Application in Android](https://buraaktasci.medium.com/how-to-get-the-install-source-of-an-application-in-android-dae7e3c49fbf?source=rss-cd261971382------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
