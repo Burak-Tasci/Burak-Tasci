@@ -5,7 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Code Smell? Understanding the Subtle Signs of Bad Code](https://buraaktasci.medium.com/what-is-code-smell-understanding-the-subtle-signs-of-bad-code-afa29219a57b?source=rss-cd261971382------2)
+- [Understanding Code Smells: Examples of Poor Coding Practices](https://buraaktasci.medium.com/what-is-code-smell-understanding-the-subtle-signs-of-bad-code-afa29219a57b?source=rss-cd261971382------2)
 - [What is K.I.S.S Principle in Software Design?](https://buraaktasci.medium.com/what-is-k-i-s-s-principle-in-software-design-c083d982e510?source=rss-cd261971382------2)
 - [4 Common Mistakes with Data Classes in Kotlin](https://buraaktasci.medium.com/4-common-mistakes-with-data-classes-in-kotlin-30ff2dde713c?source=rss-cd261971382------2)
 - [Room Database Migrations in Android](https://buraaktasci.medium.com/room-database-migrations-in-android-80ef7282215f?source=rss-cd261971382------2)
